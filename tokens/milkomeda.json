@@ -352,4 +352,12 @@
     "decimals": 18,
     "logoURI": "https://i.ibb.co/n6vDQwQ/x4e-FU3x-400x400.jpg"
     }
+    {
+    "chainId": 2001,
+    "address": "0xfDBD06d4196Da88f164965D0BE77d8617A5A4f21",
+    "name": "SAFEMOONADA",
+    "symbol": "SAFEMOONADA",
+    "decimals": 18,
+    "logoURI": "https://ibb.co/PzFx86r"
+    }
 ]
