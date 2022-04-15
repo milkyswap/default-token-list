@@ -383,6 +383,13 @@
     "symbol": "WMT",
     "decimals": 6,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png"
-  }
+  },
+  {
+    "chainId": 2001,
+    "address": "0x3F93074310033f5CE622352C715527e8eDbF1872",
+    "name": "PooADA",
+    "symbol": "PooADA",
+    "decimals": 9,
+    "logoURI": "https://i.postimg.cc/NjKRxNyG/pooada-logo.jpg"
 ]
 
