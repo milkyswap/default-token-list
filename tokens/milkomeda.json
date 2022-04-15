@@ -203,7 +203,7 @@
   {
     "chainId": 2001,
     "address": "0xDD3c970fe7008fc247A72ebA35157936F7acf588",
-    "name": "MILKSHAKE",
+    "name": "MILK-SHAKE",
     "symbol": "MSHAKE",
     "decimals": 9,
     "logoURI": "https://i.imgur.com/aIMj6MK.png"
@@ -345,13 +345,6 @@
     "logoURI": "https://i.ibb.co/DgxTWFH/safemoo.jpg"
   },
   {
-    "address": "0x9607a9966ed63634dFB34417a20c9F1D74Fbd1ec",
-    "name": "Milky Nodes",
-    "symbol": "$MNODE",
-    "decimals": 9,
-    "logoURI": "https://www.milkynodes.com/images/logo.png"
-  },
-  {
     "chainId": 2001,
     "address": "0x404719fe8Ec766cf38cEFBE732dd3A03A249FC11",
     "name": "WAGMI",
@@ -374,13 +367,37 @@
     "symbol": "SAFEMOONADA",
     "decimals": 18,
     "logoURI": "https://i.ibb.co/HpB7QHK/hvq-B5sld-400x400.png"
-  }
-]
-{
+  },
+  {
+  "chainId": 2001,
+  "address": "0x13fe17701861b769d58f44c2cEBd918886d3D205",
+  "name": "Hosky Token",
+  "symbol": "HOSKY",
+  "decimals": 0,
+  "logoURI": "https://hosky.io/wp-content/uploads/2021/11/Hosky-1-1024x1024.png"
+  },
+  {
     "chainId": 2001,
     "address": "0x1a9b93e1364439fADc85E445de7a58aB3012eED5",
-    "name": "SAFEMILK",
-    "symbol": "SAFEMILK",
+    "name": "Safe Milk",
+    "symbol": "SAFEMLK",
     "decimals": 9,
     "logoURI": "https://i.imgur.com/2zHJNQm.png"
-  }
+  },
+  {
+    "chainId": 2001,
+    "address": "0x4D5C63c07463EFa5bb26EE0A6D8C39dd0e3DaBD9",
+    "name": "World Mobile Token",
+    "symbol": "WMT",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x3F93074310033f5CE622352C715527e8eDbF1872",
+    "name": "PooADA",
+    "symbol": "PooADA",
+    "decimals": 9,
+    "logoURI": "https://i.postimg.cc/NjKRxNyG/pooada-logo.jpg"
+]
+
