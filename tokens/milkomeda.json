@@ -399,5 +399,13 @@
     "symbol": "PooADA",
     "decimals": 9,
     "logoURI": "https://i.postimg.cc/NjKRxNyG/pooada-logo.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x9B7c74Aa737FE278795fAB2Ad62dEFDbBAedFBCA",
+    "name": "Ravelin",
+    "symbol": "RAV",
+    "decimals": 18,
+    "logoURI": "https://www.ravelin.finance/images/icons/rav.png"
   }
 ]
