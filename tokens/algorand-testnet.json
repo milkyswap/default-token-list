@@ -6,6 +6,14 @@
       "symbol": "WALGO",
       "decimals": 18,
       "logoURI": "https://stakingcrypto.info/static/assets/coins/algorand-logo.png"
+    },
+    {
+      "chainId": 20020202,
+      "address": "0x4c6305B32E942B2AFca762eBB7af062bA214DB39",
+      "name": "MilkySwap Token",
+      "symbol": "MILKY",
+      "decimals": 18,
+      "logoURI": "https://www.milkyswap.exchange/images/tokens/milky-square.png"
     }
   ]
   
