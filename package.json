@@ -1,6 +1,6 @@
 {
   "name": "@milky-swap/default-token-list",
-  "version": "1.0.35",
+  "version": "1.0.36",
   "description": "The Milkyswap default token list",
   "main": "build/milkyswap-default.tokenlist.json",
   "scripts": {

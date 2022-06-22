@@ -8,6 +8,7 @@ const ChainId = {
   MAINNET: 1,
   MILKOMEDA: 2001,
   MILKOMEDA_TESTNET: 200101,
+  ALGORAND_TESTNET: 20020202,
 }
 
 const fs = require("fs");
@@ -18,6 +19,8 @@ const NAME = {
   [ChainId.MAINNET]: "mainnet",
   [ChainId.MILKOMEDA]: 'milkomeda',
   [ChainId.MILKOMEDA_TESTNET]: 'milkomeda-testnet',
+  [ChainId.ALGORAND_TESTNET]: 'algorand-testnet',
+
 };
 
 (async () => {

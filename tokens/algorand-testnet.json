@@ -1,0 +1,11 @@
+[
+    {
+      "chainId": 20020202,
+      "address": "0x7312fB83120D78Dc9db31393C79B2556049CC71b",
+      "name": "Wrapped Algorand",
+      "symbol": "WALGO",
+      "decimals": 18,
+      "logoURI": "https://stakingcrypto.info/static/assets/coins/algorand-logo.png"
+    }
+  ]
+  

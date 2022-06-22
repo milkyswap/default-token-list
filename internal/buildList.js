@@ -2,6 +2,7 @@ const { version } = require("../package.json");
 
 const milkomeda = require("../tokens/milkomeda.json");
 const milkomedaTestnet = require("../tokens/milkomeda-testnet.json");
+const algorandTestnet = require("../tokens/algorand-testnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -19,7 +20,8 @@ module.exports = function buildList() {
     keywords: ["milkyswap", "default"],
     tokens: [
       ...milkomeda,
-      ...milkomedaTestnet
+      ...milkomedaTestnet,
+      ...algorandTestnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
