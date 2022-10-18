@@ -407,5 +407,13 @@
     "symbol": "RAV",
     "decimals": 18,
     "logoURI": "https://www.ravcube.finance/images/icons/rav200.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0xA325ad468dF2676f195A623899953C192E354AE8",
+    "name": "TRUST Pool Governance Token",
+    "symbol": "TPGX",
+    "decimals": 18,
+    "logoURI": "https://www.ravcube.finance/images/icons/trustpool.webp"
   }
 ]
